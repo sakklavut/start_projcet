@@ -16,6 +16,6 @@
      <link rel="stylesheet" href="css/owl.carousel.min.css">
      <link rel="stylesheet" href="css/owl.theme.default.min.css">
 
-    <title>กระทรวงพลังงาน</title>
+    <title>สำนักงานบรรเทาทุกข์และประชานามัยพิทักษ์</title>
   </head>
   <body>
